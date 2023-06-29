@@ -21,7 +21,7 @@ To create the dashboard in Power BI, the company provides you some data sets in 
 
 4 - Which data model do you use to create this Power BI and Why do you select that data model?
 
-In the beginning, I thoroughly went through the entire content of the PDF and examined the datasets stored on the drive. It became evident that these datasets contained a wealth of information organized in multiple rows and columns. Consequently, I conducted an analysis of all the variables present in the columns across all the datasets. Subsequently, I began observing the relationships between these variables among the five datasets. To facilitate this analysis, I imported all the datasets into PowerBI. Although PowerBI is an excellent tool, I decided to optimize the Data Exploration phase by utilizing the programming language "R". I made this choice because R is a highly robust tool and I have a strong proficiency in the language. This shift allowed me to delve deeper into solving the business problem at hand.
+In the beginning, I went through the entire content of the PDF and examined the datasets stored on the drive. It became evident that these datasets contained a wealth of information organized in multiple rows and columns. Consequently, I conducted an analysis of all the variables present in the columns across all the datasets. Subsequently, I began observing the relationships between these variables among the five datasets. To facilitate this analysis, I imported all the datasets into PowerBI. Although PowerBI is an excellent tool, I decided to optimize the Data Exploration phase by utilizing the programming language "R". I made this choice because R is a highly robust tool and I have a strong proficiency in the language. This shift allowed me to delve deeper into solving the business problem at hand.
 
 ![Screenshot 2023-06-29 at 14 38 09](https://github.com/lucashomuniz/Project-10/assets/123151332/690c7ec2-aaf9-4103-a2f9-7f0bcd56b54b)
 
@@ -48,7 +48,7 @@ To address both the second and first questions, I leveraged the power of the R p
 
 # ✅ ANSWER QUESTION 3
 
-To address this test, I utilized both PowerBI and the programming language R. I consider R to be a powerful tool for tackling statistical analysis problems. One recommendation I have is to incorporate programming languages like R or Python to develop algorithms and calculate statistical insights. These insights can then be saved in a .csv file and imported into PowerBI, reducing processing time. Another suggestion for minimizing latency and enhancing performance when expanding the analysis to other categories within Power BI is to consider the following strategies:
+As you could see, in order to answer this test, other than PowerBI I used de programming language R. I consider R to be a powerful tool for tackling statistical analysis problems. One recommendation I have is to incorporate programming languages like R or Python to develop algorithms and calculate statistical insights. These insights can then be saved in a .csv file and imported into PowerBI, reducing processing time. Another suggestion for minimizing latency and enhancing performance when expanding the analysis to other categories within Power BI is to consider the following strategies:
 
 Data Aggregation: Instead of loading and processing the entire raw data for each category, consider pre-aggregating the data at a higher level, such as daily, weekly, or monthly. This summarization reduces the overall data volume and speeds up processing and visualization.
 
