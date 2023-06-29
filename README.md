@@ -9,6 +9,7 @@ SFA = 1 - Σ|Actual - Forecast | / Σ Actual
 
 Keywords: R Language, Microsoft PowerBI, Data Visualization, Data Analysis, Data Munging, Statistics Model, Sales Forecast Accuracy, Exploratory Analysis
 
+
 # ✅ PROCESS
 
 To create the dashboard in Power BI, the company provides you some data sets in the drive and the leadership wants that you with your dashboard helps to resolve the questions:
