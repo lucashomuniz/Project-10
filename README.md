@@ -6,7 +6,7 @@ ACME S.A. is a FMCG company which manufactures and commercializes different snac
 
 SFA = 1 - Σ|Actual - Forecast | / Σ Actual
 
-Keywords: R Language, Microsoft PowerBI, Data Visualization, Data Analysis, Data Munging, Statistics Model.
+Keywords: R Language, Microsoft PowerBI, Data Visualization, Data Analysis, Data Munging, Statistics Model, Sales Forecast Accuracy, Exploratory Analysis
 
 # ✅ PROCESS
 
