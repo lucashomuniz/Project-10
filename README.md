@@ -1,13 +1,4 @@
-# ✅ PROJECT-10
 
-This project is based on solving a business problem.
-
-ACME S.A. is a FMCG company which manufactures and commercializes different snacks products especially chocolates. Due to the company has a huge supply network with multiple warehouses in the country and external manufacturer units, coordination is fundamental to guarantee a good service level for its customers. To guarantee that coordination, the company implemented an automatic demand forecasting system that provides them a forecast for the next months. With that information the different areas make decisions to satisfy the expected demand. The forecasting system generates a forecast per each product for each customer. At the beginning the service level was good and all areas, especially sales, were satisfied with the results. But as soon as the time occurs that perception changed and today sales team continuously mentioned that the forecast is not good because they are having issues in some customer groups specially in atypical flavors (atypical flavors are those flavors that are not chocolate or with milk). To understand what is happening, ACME S.A. decided to hire a data scientist that help them to count a story based on the data that the company has. The leadership team of ACME wants to have a dashboard that help to tracking the Sales Forecast Accuracy (SFA) at Bcode/ Customer_Group Level and view results at different levels (group by brand for example or group by size and flavor). You only have data for one category (Chocolates) in consequence you will find some registers for other categories that you don’t have to consider in analysis.
-
-SFA = 1 - Σ|Actual - Forecast | / Σ Actual
-
-
-Keywords: R Language, Microsoft PowerBI, Data Visualization, Data Analysis, Data Munging, Statistics Model, Sales Forecast Accuracy, Exploratory Analysis
 
 
 # ✅ PROCESS
