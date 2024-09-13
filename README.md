@@ -10,6 +10,8 @@ This project aims to address three key questions posed by the leadership team, w
 
 To answer these questions, we will analyze sales data to understand the influence of promotions, and employ five different predictive models—Linear Regression, Random Forest, ElasticNet, K-Nearest Neighbors (KNN), and Gradient Boosting Machines (GBM)—to forecast future sales. A comparison of model performance will help identify the most accurate approach, and the results will be used to estimate the proportion of sales attributable to promotions versus regular purchasing patterns. This analysis will help ACME S.A. improve its demand planning and better prepare for future fluctuations in demand caused by promotional activities.
 
+Keywords: Python Language, Data Analysis, Machine Learning, Classification Model, Supervised Learning, Linear Regression, Random Forest, KNN, Elastic Net, GBM, Customer Segmentation, Predictive Modeling.
+
 # ✅ Q1: WHAT IS THE AVERAGE IMPACT OF PROMOTIONS ON TOTAL SALES? IS THIS IMPACT GENERALIZED FOR ALL BRANDS AND CUSTOMERS?
 
 My analysis began with a broad evaluation of the sales dataset, focusing on how promotional periods influenced sales behavior over time. By comparing key variables such as sales volume, invoice dates, and the duration of promotional events, I identified patterns in the relationship between promotions and sales activity. Notably, I found that all 74,815/380 dates in the Invoice Dataset coincided with promotion periods, highlighting a potential dependency on promotions to drive sales. Following this, I extended the analysis to examine how other factors such as product basecode, customer hierarchy, and promotion codes impacted sales outcomes.
