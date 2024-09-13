@@ -1,4 +1,4 @@
-# ✅ PROJECT-18
+# ✅ PROJECT-19
 
 ACME S.A. is a personal care company that manufactures and sells products such as shampoo, soap, and toothpaste across the country. Recently, the company has faced shortages in product supply, and one hypothesis suggests that promotional activities are causing significant fluctuations in demand. Since promotions were not considered in the demand planning process, the production units were unprepared to handle the additional volume. Despite this explanation, there is some skepticism, and ACME has decided to bring you, a Data Scientist, on board to provide a data-driven analysis that can lead to a more reliable demand planning process.
 
