@@ -24,6 +24,8 @@ Using this historical data, a **predictive model** was built to estimate sales f
 
 In summary, the process—from filtering promotions to applying predictive modeling—resulted in a reliable forecast of Q4 2018 sales, leveraging historical data and advanced algorithms to provide actionable insights.
 
+![1](https://github.com/user-attachments/assets/4cbda6b5-8431-48ac-8a8b-f6c6b5d213fb)
+
 ![Screenshot 2024-09-13 at 10 40 42](https://github.com/user-attachments/assets/cd80d8e4-b34b-4f64-8238-f732ec1a3c61)
 
 > Question 3: In the Q4 2018 forecast, how many tons of sales will be driven by promotions versus usual sales behavior?
