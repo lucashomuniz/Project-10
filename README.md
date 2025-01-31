@@ -1,4 +1,4 @@
-# ✅ PROJECT-19
+# ✅ PROJECT-10
 
 In this project, **ACME S.A.**, a personal care company producing products such as **shampoo**, **soap**, and **toothpaste**, faced supply shortages attributed to promotional activities causing demand spikes. These promotions were not incorporated into the **demand planning process**, leaving production unprepared for increased volumes. To address this issue and validate the hypothesis, a **data-driven analysis** is conducted.
 
