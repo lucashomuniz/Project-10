@@ -6,6 +6,8 @@ The approach involves analyzing **sales data** to evaluate the impact of promoti
 
 Keywords: Python Language, Data Analysis, Machine Learning, Classification Model, Supervised Learning, Linear Regression, Random Forest, KNN, Elastic Net, GBM, Customer Segmentation, Predictive Modeling.
 
+# ✅ PROCESS
+
 > Question 1: What is the average impact of promotions on total sales, and is this impact consistent across all brands and customers?
 
 My analysis began with a comprehensive evaluation of the **sales dataset**, focusing on the influence of **promotional periods** on sales behavior over time. Key variables such as **sales volume**, **invoice dates**, and the **duration of promotional events** were compared to identify patterns between promotions and sales activity. Notably, all **74,815 out of 380 unique dates** in the **Invoice Dataset** coincided with promotional periods, indicating a potential reliance on promotions to drive sales. Further analysis explored how factors like **product basecode**, **customer hierarchy**, and **promotion codes** influenced sales outcomes.
